@@ -5,3 +5,4 @@ https://github.com/lccfvk/assignments
 [week 4 assignment](https://github.com/lccfvk/assignments/blob/master/Assignment%20week%204.ipynb)
 [week 5 assignment](https://github.com/lccfvk/assignments/blob/master/Assignment_week_5.ipynb)
 [week 6 assignment](https://github.com/lccfvk/assignments/blob/master/assignment%20wk%206.ipynb)
+[week 6 assignment](https://github.com/lccfvk/assignments/blob/master/assignment%2Bwk%2B6.ipynb)
